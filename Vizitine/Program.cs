@@ -13,5 +13,5 @@ Console.WriteLine("Paštas: " +  email);
 Console.WriteLine("Tel.: " +  phone);
 Console.WriteLine("========================================");
 
-
+Console.WriteLine("DONE");
 
